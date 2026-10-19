@@ -1,4 +1,4 @@
-mport aiosqlite
+import aiosqlite
 
 DB_NAME = "shop.db"
 
